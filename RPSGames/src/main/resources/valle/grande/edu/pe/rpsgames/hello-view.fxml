@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns:fx="http://javafx.com/fxml"
+      fx:id="root"
+      fx:controller="valle.grande.edu.pe.rpsgames.HelloController"
+      stylesheets="@styles.css"
+      alignment="CENTER"
+      spacing="15.0">
+
+    <padding>
+        <Insets top="30" bottom="30" left="30" right="30"/>
+    </padding>
+
+</VBox>
